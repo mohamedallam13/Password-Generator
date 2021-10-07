@@ -1,7 +1,7 @@
 # Password-Generator
 A simple Webapp that generates passwords that can include different types of characters randomly picked and placed to increase strength.
 
-![Product screenshot](./assets/images/screenshots/screenshot1.jpg)
+![Product screenshot](./assets/images/screenshots/screenshot1.JPG)
 
 ### Built With
 
@@ -37,31 +37,31 @@ Not Required.
 
 #### Prompt to provide password length
 
-![Prompt to provide password length](./assets/images/screenshots/screenshot2.jpg)
+![Prompt to provide password length](./assets/images/screenshots/screenshot2.JPG)
 
 #### User inputs a word (string), asked to reattempt or cancel
 
-![User inputs a string](./assets/images/screenshots/screenshot3.jpg)
+![User inputs a string](./assets/images/screenshots/screenshot3.JPG)
 
 #### User inputs an out of range length, asked to reattempt or cancel
 
-![User inputs an out of range length](./assets/images/screenshots/screenshot4.jpg)
+![User inputs an out of range length](./assets/images/screenshots/screenshot4.JPG)
 
 #### User prompt to confirm that the password can include a character type
 
-![User prompt to confirm that the password can include a character type](./assets/images/screenshots/screenshot6.jpg)
+![User prompt to confirm that the password can include a character type](./assets/images/screenshots/screenshot6.JPG)
 
 #### User fails to confirm any type to be included and alerted that they didn't, asked to reattempt or to cancel
 
-![User fails to confirm](./assets/images/screenshots/screenshot7.jpg)
+![User fails to confirm](./assets/images/screenshots/screenshot7.JPG)
 
 #### User cancels at any stage, resulting in aborting the program, with a message declaring no password generated
 
-![User aborts](./assets/images/screenshots/screenshot5.jpg)
+![User aborts](./assets/images/screenshots/screenshot5.JPG)
 
 #### User follows the secquence correctly and a password is succcessfully generated
 
-![Successful attempt](./assets/images/screenshots/screenshot8.jpg)
+![Successful attempt](./assets/images/screenshots/screenshot8.JPG)
 
 ## License
 
